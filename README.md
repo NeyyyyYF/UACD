@@ -17,6 +17,6 @@ UA-CD: A Plug-and-play Framework for Uncertainty-aware Change Detection
 
 - We proposes a general plug-and-play framework for uncertainty-aware change detection, which can integrate uncertainty modeling into popular CD networks with minimal modifications. Our framework features MC-dropout to induce predictive variations and introduces a regularization term for uncertainty-aware finetuning, which brings consistent increments to baseline models. Comprehensive ablations and experiments on four benchmarks and three baseline models verify the effectiveness and universality of our framework.
 
-  <img src="./fig/architecture.png" alt="image" style="zoom: 80%;" />
+  <img src="./file/architecture.png" alt="image" style="zoom: 80%;" />
 
 
