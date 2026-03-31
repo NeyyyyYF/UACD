@@ -1,7 +1,5 @@
 # UACD: A Plug-and-play Framework for Uncertainty-aware Change Detection
 
-> Yuhang Gan, Yifan Li, Wenjie Xuan, Lei Fang, Juhua Liu, Bo Du
-
 ## 🔥: News
 - **[2026/02/06]**: Code cleanup is in progress.
 - **[2026/02/05]**: The article "UACD: A Plug-and-play Framework for Uncertainty-aware Change Detection" has been completed.
