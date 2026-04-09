@@ -3,13 +3,14 @@
 
 ## 🔥 News
 
+- **[2026/04/09]**: The relevant code of UACD, as well as the model weights, etc., have all been made open source.
 - **[2026/02/06]**: Code cleanup is in progress.
 - **[2026/02/05]**: The article "UACD: A Plug-and-play Framework for Uncertainty-aware Change Detection" has been completed.
 
 ## :round_pushpin: Todo
 
-- [ ]  Release training and inference codes.
-- [ ]  Provide instructions on dataset preparation and checkpoints.
+- [x]  Release training and inference codes.
+- [x]  Provide instructions on dataset preparation and checkpoints.
 
 ## :sparkles: Highlight
 
